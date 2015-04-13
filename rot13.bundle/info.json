@@ -1,0 +1,9 @@
+{
+	"name": "Rot13",
+	"displayName": "Rot13",
+	"description": "Does Rot13 of string",
+	"examples": ["rot13 string"],
+	"categories": ["Developer"],
+	"creator_name": "tcyrus",
+	"creator_url": "https://github.com/tcyrus/flashlight-plugins/tree/master/rot13.bundle"
+}
