@@ -1,0 +1,7 @@
+{
+	"name": "imgur",
+	"displayName": "Imgur Search",
+	"description": "Search Imgur",
+	"examples": ["searchimgur yosemite", "imgur maverick", "imgur flashlight"],
+	"categories": ["Art"]
+}
