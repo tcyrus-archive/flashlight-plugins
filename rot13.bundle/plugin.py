@@ -6,8 +6,9 @@ def results(fields, original_query):
         "html": """<h1>{0}</h1>""".format(rot13),
     }
 
-def run(query):
-    p = subprocess.Popen(['pbcopy'], stdin=subprocess.PIPE)
-    p.stdin.write(query)
-    p.stdin.close()
-    retcode = p.wait()
+def set_text(text):
+	from AppKit import NSPasteboard, NSPasteboardTypeString
+	NSPasteboard.generalPasteboard().clearContents()
+	NSPasteboard.generalPasteboard().setString_forType_(text, NSPasteboardTypeString)
+
+def run(rot13): set_text(rot13)

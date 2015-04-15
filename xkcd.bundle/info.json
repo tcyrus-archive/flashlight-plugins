@@ -1,0 +1,9 @@
+{
+	"name": "xkcd",
+	"displayName": "xkcd",
+	"description": "view xkcd",
+	"examples": ["xkcd"],
+	"categories": ["Art"],
+	"creator_name": "tcyrus",
+	"creator_url": "https://github.com/tcyrus/flashlight-plugins/tree/master/xkcd.bundle"
+}

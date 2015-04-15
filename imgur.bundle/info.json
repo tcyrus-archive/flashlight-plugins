@@ -2,7 +2,7 @@
 	"name": "imgur",
 	"displayName": "Imgur Search",
 	"description": "Search Imgur",
-	"examples": ["searchimgur yosemite", "imgur maverick", "imgur flashlight"],
+	"examples": ["searchimgur yosemite", "search imgur maverick", "imgur flashlight"],
 	"categories": ["Art"],
 	"creator_name": "tcyrus",
 	"creator_url": "https://github.com/tcyrus/flashlight-plugins/tree/master/imgur.bundle"

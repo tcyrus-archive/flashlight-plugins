@@ -1,3 +1,4 @@
-search imgur ~imgur(query here)
-searchimgur ~imgur(query here)
-imgur ~imgur(query here)
+imgur
+imgur ~search(query here)
+search imgur ~search(query here)
+searchimgur ~search(query here)

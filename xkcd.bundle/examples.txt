@@ -1,0 +1,4 @@
+xkcd
+xkcd latest
+xkcd first(first)
+xkcd ~num(000)
