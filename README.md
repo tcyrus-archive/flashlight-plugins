@@ -1,7 +1,12 @@
-# flashlight plugins
+# Flashlight Plugins
 
-## imgur
-An Imgur plugin for Flashlight
+A small collection of plugins I made for [Flashlight](https://github.com/nate-parrott/Flashlight)
 
-## rot13
+## [imgur](imgur.bundle)
+An imgur plugin for Flashlight
+
+## [rot13](rot13.bundle)
 A Rot13 plugin for Flashlight
+
+## [xkcd](xkcd.bundle)
+A xkcd plugin for Flashlight
